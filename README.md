@@ -7,7 +7,7 @@
 - ⚡ Atualmente estou liderando o time de desenvolvimento de duas empresas, a Fluência Corporal e a BM SIS.   
 - 💻 Git, MySQL, Postgres, MongoDB, PHP, Codeigniter, CakePHP, Javascript, JQuery, Node.JS, React.JS e React Native   
 - 📘 Estudando: Cloud Computing, CI/CD, Testes Unitários com JEST e Docker.    
-- 💬 Sobre mim: Gosto de tecnologias e de pensar em ideias empreendedoras.   
+- 💬 Sobre mim: Gosto de desafios grandes e de contribuir para soluções que façam a diferença na realidade de outras pessoas.  
 - 📫 raifreelas@gmail.com    
 
 <code><a href="https://www.digitalocean.com/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-ar21.svg"></a></code>
