@@ -5,7 +5,7 @@
 
 - 🚀 Sempre Aberta a Novos Desafios.   
 - ⚡ Atualmente estou liderando o time de desenvolvimento de duas empresas, a Fluência Corporal e a BM SIS.   
-- 💻 Git, MySQL, Postgres, MongoDB, PHP, Codeigniter, CakePHP, Javascript, JQuery, Node.JS, React.JS e React Native   
+- 💻 Git, MySQL, Postgres, MongoDB, PHP, Codeigniter, CakePHP, Javascript, JQuery, AJAX, Node.JS, React.JS e React Native   
 - 📘 Estudando: Cloud Computing, CI/CD, Testes Unitários com JEST e Docker.    
 - 💬 Sobre mim: Gosto de desafios grandes e de contribuir para soluções que façam a diferença na realidade de outras pessoas.  
 - 📫 raifreelas@gmail.com    
