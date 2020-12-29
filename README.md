@@ -24,6 +24,8 @@
 
 ### Demonstração de Conhecimentos
 
+- [Frontend em ReactJS: Upload de Imagens](https://github.com/raissaqueiroz/upload-images-webapp) 
+- [Backend em NodeJS: API Restfull Upload de Imagens](https://github.com/raissaqueiroz/upload-images-api)
 - [Frontend em ReactJS: Crud Básico de Clientes](https://github.com/raissaqueiroz/helpper-webapp) 
 - [Backend em NodeJS: API Restfull Crud Básico de Clientes](https://github.com/raissaqueiroz/helpper-api)
 - [Landing Page de Venda de Curso em Wordpress](https://github.com/raissaqueiroz/AirFLY)
