@@ -4,7 +4,7 @@
 <img align="right" height="200" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
 - 🚀 Sempre Aberta a Novos Desafios.   
-- ⚡ Desenvolvedora Fullstack na Fluência Corporal e na a Adventures Law & Tech. 
+- ⚡ Desenvolvedora na Helpper Soluções Inteligentes e na a Adventures Law & Tech. 
 - 💻 Git, MySQL, Postgres, MongoDB, PHP, Codeigniter, CakePHP, Javascript, JQuery, AJAX, Node.JS, React.JS e React Native   
 - 📘 Estudando: Cloud Computing, CI/CD, Testes Unitários com JEST e Docker.    
 - 💬 Sobre mim: Gosto de desafios grandes e de contribuir para soluções que façam a diferença na realidade de outras pessoas.  
