@@ -4,9 +4,9 @@
 <img align="right" height="200" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
 - 🚀 Sempre Aberta a Novos Desafios.   
-- ⚡ Desenvolvedora na Helpper Soluções Inteligentes e na a Adventures Law & Tech. 
-- 💻 Git, MySQL, Postgres, MongoDB, PHP, Codeigniter, CakePHP, Javascript, JQuery, AJAX, Node.JS, React.JS e React Native   
-- 📘 Estudando: Cloud Computing, CI/CD, Testes Unitários com JEST e Docker.    
+- ⚡ Desenvolvedora Frontend e Backend. 
+- 💻 Git, MySQL, Postgres, MongoDB, C#, .NET, RabbitMQ, MassTransit, Azure Devops, DDD, xUnit, PHP, Codeigniter, CakePHP, Javascript, JQuery, AJAX, Node.JS, React.JS e React Native   
+- 📘 Faculdade: Analise e Desenvolvimento de Sistemas 
 - 💬 Sobre mim: Gosto de desafios grandes e de contribuir para soluções que façam a diferença na realidade de outras pessoas.  
 - 📫 raifreelas@gmail.com    
 
